@@ -20,10 +20,10 @@ require (
 	github.com/jhump/protoreflect v1.8.2
 	github.com/json-iterator/go v1.1.12
 	github.com/tidwall/gjson v1.9.3
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.18.0
 	golang.org/x/sync v0.3.0
-	golang.org/x/sys v0.11.0
-	golang.org/x/tools v0.1.12
+	golang.org/x/sys v0.14.0
+	golang.org/x/tools v0.6.0
 	google.golang.org/genproto v0.0.0-20210513213006-bf773b8c8384
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/yaml.v3 v3.0.1
