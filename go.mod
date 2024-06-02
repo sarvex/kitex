@@ -25,6 +25,6 @@ require (
 	golang.org/x/sys v0.11.0
 	golang.org/x/tools v0.1.12
 	google.golang.org/genproto v0.0.0-20210513213006-bf773b8c8384
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
 )
