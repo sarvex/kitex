@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/apache/thrift v0.13.0
-	github.com/bytedance/gopkg v0.0.0-20230728082804-614d0af6619b
+	github.com/bytedance/gopkg v0.0.0-20240531030433-5df24c0168e2
 	github.com/bytedance/mockey v1.2.4
 	github.com/bytedance/sonic v1.10.0
 	github.com/choleraehyq/pid v0.0.17
